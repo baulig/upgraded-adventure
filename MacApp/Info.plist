@@ -24,8 +24,8 @@
 	<string>Xamarin Inc. (http://www.xamarin.com)</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>NSMainStoryboardFile</key>
-	<string>Storyboard</string>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/AppIcon.appiconset</string>
 </dict>

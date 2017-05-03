@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{FA1FDCA3-B535-4D01-9B8C-57D467DBB6B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MacApp/AppDelegate.cs">
+    <Files>
+      <File FileName="MacLibrary/Window.cs" Line="1" Column="1" />
+      <File FileName="MacLibrary/WindowController.cs" Line="1" Column="1" />
+      <File FileName="MacApp/AppDelegate.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MacApp PreferredExecutionTarget="Test1" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
